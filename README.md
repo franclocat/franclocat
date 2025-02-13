@@ -41,8 +41,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/franclocat/franclocat/output/snake.svg" alt="Snake animation" />
 
 ###
