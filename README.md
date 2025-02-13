@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Franco and I'm a ..., from Mexico and Switzerland.</h2>
+<h2 align="left">Hi 👋! My name is Franco and I'm an apprecntice in software engineering from Mexico and Switzerland. Currently doing my apprenticeship in Switzerland.</h2>
 
 ###
 
