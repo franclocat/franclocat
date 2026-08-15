@@ -1,4 +1,4 @@
-<h2 align="left">Software developer, currently doing my apprenticeship.</h2>
+<h2 align="left">Software developer</h2>
 
 ###
 
